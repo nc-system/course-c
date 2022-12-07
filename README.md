@@ -1,2 +1,2 @@
-# course-c
-NC Course - C Language
+# Course Microservices
+Course NC - Microservices
